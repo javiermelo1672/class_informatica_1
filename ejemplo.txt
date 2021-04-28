@@ -6,3 +6,4 @@ drwxr-xr-x  12 javiermelo  staff    384 Apr 28 06:38 .git
 -rw-r--r--   1 javiermelo  staff    350 Apr 28 06:30 .gitignore
 drwx------@ 17 javiermelo  staff    544 Apr 28 06:30 ..
 Se añade linea
+cambio de jtorresm
