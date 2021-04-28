@@ -1,0 +1,9 @@
+total 40
+drwxr-xr-x   7 javiermelo  staff    224 Apr 28 06:39 .
+drwxr-xr-x  12 javiermelo  staff    384 Apr 28 06:38 .git
+-rw-r--r--   1 javiermelo  staff     44 Apr 28 06:30 README.md
+-rw-r--r--   1 javiermelo  staff  11357 Apr 28 06:30 LICENSE
+-rw-r--r--   1 javiermelo  staff    350 Apr 28 06:30 .gitignore
+drwx------@ 17 javiermelo  staff    544 Apr 28 06:30 ..
+Se añade linea
+cambio de jtorresm
